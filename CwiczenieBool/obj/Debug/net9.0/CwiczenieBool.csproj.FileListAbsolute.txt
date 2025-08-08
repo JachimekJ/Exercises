@@ -1,0 +1,14 @@
+C:\Exercises\CwiczenieBool\bin\Debug\net9.0\CwiczenieBool.exe
+C:\Exercises\CwiczenieBool\bin\Debug\net9.0\CwiczenieBool.deps.json
+C:\Exercises\CwiczenieBool\bin\Debug\net9.0\CwiczenieBool.runtimeconfig.json
+C:\Exercises\CwiczenieBool\bin\Debug\net9.0\CwiczenieBool.dll
+C:\Exercises\CwiczenieBool\bin\Debug\net9.0\CwiczenieBool.pdb
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.AssemblyInfoInputs.cache
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.AssemblyInfo.cs
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.csproj.CoreCompileInputs.cache
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.dll
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\refint\CwiczenieBool.dll
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.pdb
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\CwiczenieBool.genruntimeconfig.cache
+C:\Exercises\CwiczenieBool\obj\Debug\net9.0\ref\CwiczenieBool.dll

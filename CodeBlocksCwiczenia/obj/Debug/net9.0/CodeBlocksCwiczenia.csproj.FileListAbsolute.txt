@@ -1,0 +1,14 @@
+C:\Exercises\CodeBlocksCwiczenia\bin\Debug\net9.0\CodeBlocksCwiczenia.exe
+C:\Exercises\CodeBlocksCwiczenia\bin\Debug\net9.0\CodeBlocksCwiczenia.deps.json
+C:\Exercises\CodeBlocksCwiczenia\bin\Debug\net9.0\CodeBlocksCwiczenia.runtimeconfig.json
+C:\Exercises\CodeBlocksCwiczenia\bin\Debug\net9.0\CodeBlocksCwiczenia.dll
+C:\Exercises\CodeBlocksCwiczenia\bin\Debug\net9.0\CodeBlocksCwiczenia.pdb
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.AssemblyInfoInputs.cache
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.AssemblyInfo.cs
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.csproj.CoreCompileInputs.cache
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.dll
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\refint\CodeBlocksCwiczenia.dll
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.pdb
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\CodeBlocksCwiczenia.genruntimeconfig.cache
+C:\Exercises\CodeBlocksCwiczenia\obj\Debug\net9.0\ref\CodeBlocksCwiczenia.dll

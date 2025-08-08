@@ -1,0 +1,14 @@
+C:\Exercises\CwiczenieSwtich\bin\Debug\net9.0\CwiczenieSwtich.exe
+C:\Exercises\CwiczenieSwtich\bin\Debug\net9.0\CwiczenieSwtich.deps.json
+C:\Exercises\CwiczenieSwtich\bin\Debug\net9.0\CwiczenieSwtich.runtimeconfig.json
+C:\Exercises\CwiczenieSwtich\bin\Debug\net9.0\CwiczenieSwtich.dll
+C:\Exercises\CwiczenieSwtich\bin\Debug\net9.0\CwiczenieSwtich.pdb
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.AssemblyInfoInputs.cache
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.AssemblyInfo.cs
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.csproj.CoreCompileInputs.cache
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.dll
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\refint\CwiczenieSwtich.dll
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.pdb
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\CwiczenieSwtich.genruntimeconfig.cache
+C:\Exercises\CwiczenieSwtich\obj\Debug\net9.0\ref\CwiczenieSwtich.dll

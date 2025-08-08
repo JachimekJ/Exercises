@@ -1,0 +1,14 @@
+C:\Exercises\ĆwiczenieWhile\bin\Debug\net9.0\ĆwiczenieWhile.exe
+C:\Exercises\ĆwiczenieWhile\bin\Debug\net9.0\ĆwiczenieWhile.deps.json
+C:\Exercises\ĆwiczenieWhile\bin\Debug\net9.0\ĆwiczenieWhile.runtimeconfig.json
+C:\Exercises\ĆwiczenieWhile\bin\Debug\net9.0\ĆwiczenieWhile.dll
+C:\Exercises\ĆwiczenieWhile\bin\Debug\net9.0\ĆwiczenieWhile.pdb
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.AssemblyInfoInputs.cache
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.AssemblyInfo.cs
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.csproj.CoreCompileInputs.cache
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.dll
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\refint\ĆwiczenieWhile.dll
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.pdb
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ĆwiczenieWhile.genruntimeconfig.cache
+C:\Exercises\ĆwiczenieWhile\obj\Debug\net9.0\ref\ĆwiczenieWhile.dll

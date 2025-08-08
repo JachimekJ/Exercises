@@ -1,0 +1,14 @@
+C:\Exercises\ZadanieBool\bin\Debug\net9.0\ZadanieBool.exe
+C:\Exercises\ZadanieBool\bin\Debug\net9.0\ZadanieBool.deps.json
+C:\Exercises\ZadanieBool\bin\Debug\net9.0\ZadanieBool.runtimeconfig.json
+C:\Exercises\ZadanieBool\bin\Debug\net9.0\ZadanieBool.dll
+C:\Exercises\ZadanieBool\bin\Debug\net9.0\ZadanieBool.pdb
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.AssemblyInfoInputs.cache
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.AssemblyInfo.cs
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.csproj.CoreCompileInputs.cache
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.dll
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\refint\ZadanieBool.dll
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.pdb
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ZadanieBool.genruntimeconfig.cache
+C:\Exercises\ZadanieBool\obj\Debug\net9.0\ref\ZadanieBool.dll

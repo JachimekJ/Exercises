@@ -1,0 +1,14 @@
+C:\Exercises\CwiczeniePetlaFor\bin\Debug\net9.0\CwiczeniePetlaFor.exe
+C:\Exercises\CwiczeniePetlaFor\bin\Debug\net9.0\CwiczeniePetlaFor.deps.json
+C:\Exercises\CwiczeniePetlaFor\bin\Debug\net9.0\CwiczeniePetlaFor.runtimeconfig.json
+C:\Exercises\CwiczeniePetlaFor\bin\Debug\net9.0\CwiczeniePetlaFor.dll
+C:\Exercises\CwiczeniePetlaFor\bin\Debug\net9.0\CwiczeniePetlaFor.pdb
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.AssemblyInfoInputs.cache
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.AssemblyInfo.cs
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.csproj.CoreCompileInputs.cache
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.dll
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\refint\CwiczeniePetlaFor.dll
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.pdb
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\CwiczeniePetlaFor.genruntimeconfig.cache
+C:\Exercises\CwiczeniePetlaFor\obj\Debug\net9.0\ref\CwiczeniePetlaFor.dll

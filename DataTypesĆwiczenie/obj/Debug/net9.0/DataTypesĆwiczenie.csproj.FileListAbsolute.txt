@@ -1,0 +1,15 @@
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.AssemblyInfoInputs.cache
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.AssemblyInfo.cs
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.csproj.CoreCompileInputs.cache
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.sourcelink.json
+C:\Exercises\DataTypesĆwiczenie\bin\Debug\net9.0\DataTypesĆwiczenie.exe
+C:\Exercises\DataTypesĆwiczenie\bin\Debug\net9.0\DataTypesĆwiczenie.deps.json
+C:\Exercises\DataTypesĆwiczenie\bin\Debug\net9.0\DataTypesĆwiczenie.runtimeconfig.json
+C:\Exercises\DataTypesĆwiczenie\bin\Debug\net9.0\DataTypesĆwiczenie.dll
+C:\Exercises\DataTypesĆwiczenie\bin\Debug\net9.0\DataTypesĆwiczenie.pdb
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.dll
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\refint\DataTypesĆwiczenie.dll
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.pdb
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\DataTypesĆwiczenie.genruntimeconfig.cache
+C:\Exercises\DataTypesĆwiczenie\obj\Debug\net9.0\ref\DataTypesĆwiczenie.dll

@@ -1,0 +1,15 @@
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.AssemblyInfoInputs.cache
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.AssemblyInfo.cs
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.csproj.CoreCompileInputs.cache
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.sourcelink.json
+C:\Exercises\ConvertDataTypesĆwiczenie\bin\Debug\net9.0\ConvertDataTypesĆwiczenie.exe
+C:\Exercises\ConvertDataTypesĆwiczenie\bin\Debug\net9.0\ConvertDataTypesĆwiczenie.deps.json
+C:\Exercises\ConvertDataTypesĆwiczenie\bin\Debug\net9.0\ConvertDataTypesĆwiczenie.runtimeconfig.json
+C:\Exercises\ConvertDataTypesĆwiczenie\bin\Debug\net9.0\ConvertDataTypesĆwiczenie.dll
+C:\Exercises\ConvertDataTypesĆwiczenie\bin\Debug\net9.0\ConvertDataTypesĆwiczenie.pdb
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.dll
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\refint\ConvertDataTypesĆwiczenie.dll
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.pdb
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ConvertDataTypesĆwiczenie.genruntimeconfig.cache
+C:\Exercises\ConvertDataTypesĆwiczenie\obj\Debug\net9.0\ref\ConvertDataTypesĆwiczenie.dll

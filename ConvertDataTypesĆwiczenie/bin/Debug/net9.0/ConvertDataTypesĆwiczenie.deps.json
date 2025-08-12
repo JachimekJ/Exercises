@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConvertDataTypesĆwiczenie/1.0.0": {
+        "runtime": {
+          "ConvertDataTypesĆwiczenie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertDataTypesĆwiczenie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

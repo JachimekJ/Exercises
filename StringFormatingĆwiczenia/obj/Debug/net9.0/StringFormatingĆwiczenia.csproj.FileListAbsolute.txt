@@ -1,0 +1,15 @@
+C:\Exercises\StringFormatingĆwiczenia\bin\Debug\net9.0\StringFormatingĆwiczenia.exe
+C:\Exercises\StringFormatingĆwiczenia\bin\Debug\net9.0\StringFormatingĆwiczenia.deps.json
+C:\Exercises\StringFormatingĆwiczenia\bin\Debug\net9.0\StringFormatingĆwiczenia.runtimeconfig.json
+C:\Exercises\StringFormatingĆwiczenia\bin\Debug\net9.0\StringFormatingĆwiczenia.dll
+C:\Exercises\StringFormatingĆwiczenia\bin\Debug\net9.0\StringFormatingĆwiczenia.pdb
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.AssemblyInfoInputs.cache
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.AssemblyInfo.cs
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.csproj.CoreCompileInputs.cache
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.sourcelink.json
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.dll
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\refint\StringFormatingĆwiczenia.dll
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.pdb
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\StringFormatingĆwiczenia.genruntimeconfig.cache
+C:\Exercises\StringFormatingĆwiczenia\obj\Debug\net9.0\ref\StringFormatingĆwiczenia.dll

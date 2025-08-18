@@ -1,0 +1,15 @@
+C:\Exercises\ModifyTheContentĆwiczenia\bin\Debug\net9.0\ModifyTheContentĆwiczenia.exe
+C:\Exercises\ModifyTheContentĆwiczenia\bin\Debug\net9.0\ModifyTheContentĆwiczenia.deps.json
+C:\Exercises\ModifyTheContentĆwiczenia\bin\Debug\net9.0\ModifyTheContentĆwiczenia.runtimeconfig.json
+C:\Exercises\ModifyTheContentĆwiczenia\bin\Debug\net9.0\ModifyTheContentĆwiczenia.dll
+C:\Exercises\ModifyTheContentĆwiczenia\bin\Debug\net9.0\ModifyTheContentĆwiczenia.pdb
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.AssemblyInfoInputs.cache
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.AssemblyInfo.cs
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.csproj.CoreCompileInputs.cache
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.sourcelink.json
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.dll
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\refint\ModifyTheContentĆwiczenia.dll
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.pdb
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ModifyTheContentĆwiczenia.genruntimeconfig.cache
+C:\Exercises\ModifyTheContentĆwiczenia\obj\Debug\net9.0\ref\ModifyTheContentĆwiczenia.dll

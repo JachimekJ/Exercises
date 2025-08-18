@@ -1,0 +1,15 @@
+C:\Exercises\ArraysĆwiczenia\bin\Debug\net9.0\ArraysĆwiczenia.exe
+C:\Exercises\ArraysĆwiczenia\bin\Debug\net9.0\ArraysĆwiczenia.deps.json
+C:\Exercises\ArraysĆwiczenia\bin\Debug\net9.0\ArraysĆwiczenia.runtimeconfig.json
+C:\Exercises\ArraysĆwiczenia\bin\Debug\net9.0\ArraysĆwiczenia.dll
+C:\Exercises\ArraysĆwiczenia\bin\Debug\net9.0\ArraysĆwiczenia.pdb
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.AssemblyInfoInputs.cache
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.AssemblyInfo.cs
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.csproj.CoreCompileInputs.cache
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.sourcelink.json
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.dll
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\refint\ArraysĆwiczenia.dll
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.pdb
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ArraysĆwiczenia.genruntimeconfig.cache
+C:\Exercises\ArraysĆwiczenia\obj\Debug\net9.0\ref\ArraysĆwiczenia.dll

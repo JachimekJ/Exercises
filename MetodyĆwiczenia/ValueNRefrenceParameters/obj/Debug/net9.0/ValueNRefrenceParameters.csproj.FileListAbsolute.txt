@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\bin\Debug\net9.0\ValueNRefrenceParameters.exe
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\bin\Debug\net9.0\ValueNRefrenceParameters.deps.json
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\bin\Debug\net9.0\ValueNRefrenceParameters.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\bin\Debug\net9.0\ValueNRefrenceParameters.dll
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\bin\Debug\net9.0\ValueNRefrenceParameters.pdb
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.dll
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\refint\ValueNRefrenceParameters.dll
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.pdb
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ValueNRefrenceParameters.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\ValueNRefrenceParameters\obj\Debug\net9.0\ref\ValueNRefrenceParameters.dll

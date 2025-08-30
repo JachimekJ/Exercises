@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\bin\Debug\net9.0\MethodWithOptionalP.exe
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\bin\Debug\net9.0\MethodWithOptionalP.deps.json
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\bin\Debug\net9.0\MethodWithOptionalP.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\bin\Debug\net9.0\MethodWithOptionalP.dll
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\bin\Debug\net9.0\MethodWithOptionalP.pdb
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.dll
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\refint\MethodWithOptionalP.dll
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.pdb
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\MethodWithOptionalP.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\MethodWithOptionalP\obj\Debug\net9.0\ref\MethodWithOptionalP.dll

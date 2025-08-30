@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\bin\Debug\net9.0\BuildCodeWithMethods.exe
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\bin\Debug\net9.0\BuildCodeWithMethods.deps.json
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\bin\Debug\net9.0\BuildCodeWithMethods.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\bin\Debug\net9.0\BuildCodeWithMethods.dll
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\bin\Debug\net9.0\BuildCodeWithMethods.pdb
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.dll
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\refint\BuildCodeWithMethods.dll
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.pdb
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\BuildCodeWithMethods.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\BuildCodeWithMethods\obj\Debug\net9.0\ref\BuildCodeWithMethods.dll

@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\GuidedProject\bin\Debug\net9.0\GuidedProject.exe
+C:\Exercises\MetodyĆwiczenia\GuidedProject\bin\Debug\net9.0\GuidedProject.deps.json
+C:\Exercises\MetodyĆwiczenia\GuidedProject\bin\Debug\net9.0\GuidedProject.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\GuidedProject\bin\Debug\net9.0\GuidedProject.dll
+C:\Exercises\MetodyĆwiczenia\GuidedProject\bin\Debug\net9.0\GuidedProject.pdb
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.dll
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\refint\GuidedProject.dll
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.pdb
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\GuidedProject.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\GuidedProject\obj\Debug\net9.0\ref\GuidedProject.dll

@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\UseParameters\bin\Debug\net9.0\UseParameters.exe
+C:\Exercises\MetodyĆwiczenia\UseParameters\bin\Debug\net9.0\UseParameters.deps.json
+C:\Exercises\MetodyĆwiczenia\UseParameters\bin\Debug\net9.0\UseParameters.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\UseParameters\bin\Debug\net9.0\UseParameters.dll
+C:\Exercises\MetodyĆwiczenia\UseParameters\bin\Debug\net9.0\UseParameters.pdb
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.dll
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\refint\UseParameters.dll
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.pdb
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\UseParameters.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\UseParameters\obj\Debug\net9.0\ref\UseParameters.dll

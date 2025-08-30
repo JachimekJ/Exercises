@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net9.0\Starter.exe
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net9.0\Starter.deps.json
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net9.0\Starter.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net9.0\Starter.dll
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net9.0\Starter.pdb
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.dll
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\refint\Starter.dll
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.pdb
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\Starter.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net9.0\ref\Starter.dll

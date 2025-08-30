@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\bin\Debug\net9.0\DisplayEmailAddressChallenge.exe
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\bin\Debug\net9.0\DisplayEmailAddressChallenge.deps.json
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\bin\Debug\net9.0\DisplayEmailAddressChallenge.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\bin\Debug\net9.0\DisplayEmailAddressChallenge.dll
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\bin\Debug\net9.0\DisplayEmailAddressChallenge.pdb
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.dll
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\refint\DisplayEmailAddressChallenge.dll
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.pdb
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\DisplayEmailAddressChallenge.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\DisplayEmailAddressChallenge\obj\Debug\net9.0\ref\DisplayEmailAddressChallenge.dll

@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\bin\Debug\net9.0\ReturnTypesSyntax.exe
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\bin\Debug\net9.0\ReturnTypesSyntax.deps.json
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\bin\Debug\net9.0\ReturnTypesSyntax.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\bin\Debug\net9.0\ReturnTypesSyntax.dll
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\bin\Debug\net9.0\ReturnTypesSyntax.pdb
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.dll
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\refint\ReturnTypesSyntax.dll
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.pdb
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ReturnTypesSyntax.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\ReturnTypesSyntax\obj\Debug\net9.0\ref\ReturnTypesSyntax.dll

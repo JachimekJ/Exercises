@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\bin\Debug\net9.0\UnderstandMethodScope.exe
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\bin\Debug\net9.0\UnderstandMethodScope.deps.json
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\bin\Debug\net9.0\UnderstandMethodScope.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\bin\Debug\net9.0\UnderstandMethodScope.dll
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\bin\Debug\net9.0\UnderstandMethodScope.pdb
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.dll
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\refint\UnderstandMethodScope.dll
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.pdb
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\UnderstandMethodScope.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\UnderstandMethodScope\obj\Debug\net9.0\ref\UnderstandMethodScope.dll

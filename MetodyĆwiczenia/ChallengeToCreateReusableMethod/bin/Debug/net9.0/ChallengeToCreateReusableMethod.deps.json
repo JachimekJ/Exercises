@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ChallengeToCreateReusableMethod/1.0.0": {
+        "runtime": {
+          "ChallengeToCreateReusableMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengeToCreateReusableMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

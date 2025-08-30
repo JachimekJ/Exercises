@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\bin\Debug\net9.0\ChallengeToCreateReusableMethod.exe
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\bin\Debug\net9.0\ChallengeToCreateReusableMethod.deps.json
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\bin\Debug\net9.0\ChallengeToCreateReusableMethod.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\bin\Debug\net9.0\ChallengeToCreateReusableMethod.dll
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\bin\Debug\net9.0\ChallengeToCreateReusableMethod.pdb
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.dll
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\refint\ChallengeToCreateReusableMethod.dll
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.pdb
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ChallengeToCreateReusableMethod.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\ChallengeToCreateReusableMethod\obj\Debug\net9.0\ref\ChallengeToCreateReusableMethod.dll

@@ -1,0 +1,15 @@
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.AssemblyInfoInputs.cache
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.AssemblyInfo.cs
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.csproj.CoreCompileInputs.cache
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.sourcelink.json
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\bin\Debug\net9.0\CompleteChallenge.exe
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\bin\Debug\net9.0\CompleteChallenge.deps.json
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\bin\Debug\net9.0\CompleteChallenge.runtimeconfig.json
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\bin\Debug\net9.0\CompleteChallenge.dll
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\bin\Debug\net9.0\CompleteChallenge.pdb
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.dll
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\refint\CompleteChallenge.dll
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.pdb
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\CompleteChallenge.genruntimeconfig.cache
+C:\Exercises\MetodyĆwiczenia\CompleteChallenge\obj\Debug\net9.0\ref\CompleteChallenge.dll
